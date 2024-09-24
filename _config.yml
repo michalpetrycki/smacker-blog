@@ -15,7 +15,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: lorepirri
+author: mpetrycki
 image: /thumbnail-jumbo.png
 
 plugins:
