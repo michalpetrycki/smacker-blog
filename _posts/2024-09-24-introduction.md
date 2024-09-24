@@ -4,6 +4,8 @@ title: "Introduction post"
 categories: misc
 ---
 
+Welcome to by blog my friend
+
 # Yo, yo! Welcome 
 
 Welcome to my blog. My name is Michal and I'm a web developer. In this blog I'll be recording process of development **Smacker** - recipe management app. I decided to create a web app 
