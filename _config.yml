@@ -1,8 +1,8 @@
 title: Smacker and it's journey
 description: Smacker is a recipe management app and this blog will  its progress from first baby steps to full web app (one day maybe)
 
-baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://lorepirri.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/smacker-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://michalpetrycki.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
