@@ -4,7 +4,7 @@ title: "Introduction post"
 categories: misc
 ---
 
-Welcome to by blog my friend
+Welcome to my blog my friend
 
 # Yo, yo! Welcome 
 
